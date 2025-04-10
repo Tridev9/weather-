@@ -52,7 +52,8 @@ const cities = {
 };
 ```
 
-##Future Enhancements 🔮
+
+## Future Enhancements 🔮
 
 * Add more Indian cities
 * Implement actual weather API integration option
